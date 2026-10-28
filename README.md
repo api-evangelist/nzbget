@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-NZBGet is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://nzbget.com/
+NZBGet is a fast, reliable, feature‑packed NZB downloader for Usenet that runs on Windows, macOS, Linux, NAS devices and Docker. It offers XML‑RPC, JSON‑RPC and JSON‑P‑RPC interfaces for programmatic control, enabling integration with third‑party tools and scripts.
+
+**Areas:** Usenet · Downloader · Cross‑platform · RPC · Open‑source
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nzbget.com/)
+- [Documentation](https://nzbget.com/documentation/)
+- [Getting started](https://nzbget.com/documentation/how-to-set-up-nzbget-quickstart-guide-for-beginners/)
+- [API reference](https://nzbget.com/documentation/api/)
+- [Support](https://nzbget.com/contact/)
+- [GitHub](https://github.com/nzbgetcom)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/nzbget/](https://apis.io/providers/nzbget/).
